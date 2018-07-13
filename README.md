@@ -13,3 +13,10 @@
 ```
 @interface BaseViewController : CLVolumeViewController
 ```
+
+before:
+![Image text](https://github.com/coooliang/CLVolumeViewController/blob/master/IMG_0051.png)
+
+after:
+![Image text](https://github.com/coooliang/CLVolumeViewController/blob/master/IMG_0050.png)
+
