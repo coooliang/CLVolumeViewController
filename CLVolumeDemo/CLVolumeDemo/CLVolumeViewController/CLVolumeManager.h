@@ -6,6 +6,7 @@
 //  Copyright © 2018年 China Industrial Bank. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 
 @interface CLVolumeManager : NSObject
