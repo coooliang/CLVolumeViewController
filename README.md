@@ -14,12 +14,9 @@
 @interface BaseViewController : CLVolumeViewController
 ```
 
-before:
+前后对比：
 
-<img src="https://github.com/coooliang/CLVolumeViewController/blob/master/IMG_0051.png" width="50%" height="50%" />
-
-after:
-
-<img src="https://github.com/coooliang/CLVolumeViewController/blob/master/IMG_0050.png" width="50%" height="50%" />
+<img src="https://github.com/coooliang/CLVolumeViewController/blob/master/IMG_0051.png" width="30%" height="30%" />
+<img src="https://github.com/coooliang/CLVolumeViewController/blob/master/IMG_0050.png" width="30%" height="30%" />
 
 
