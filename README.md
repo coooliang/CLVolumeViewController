@@ -15,8 +15,11 @@
 ```
 
 before:
-![Image text](https://github.com/coooliang/CLVolumeViewController/blob/master/IMG_0051.png)
+
+<img src="https://github.com/coooliang/CLVolumeViewController/blob/master/IMG_0051.png" width="50%" height="50%" />
 
 after:
-![Image text](https://github.com/coooliang/CLVolumeViewController/blob/master/IMG_0050.png)
+
+<img src="https://github.com/coooliang/CLVolumeViewController/blob/master/IMG_0050.png" width="50%" height="50%" />
+
 
