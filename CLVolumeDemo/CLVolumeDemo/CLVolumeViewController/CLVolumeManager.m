@@ -63,6 +63,6 @@
     [[NSNotificationCenter defaultCenter]removeObserver:self name:@"AVSystemController_SystemVolumeDidChangeNotification" object:nil];
 }
 - (void)dealloc{
-    [[NSNotificationCenter defaultCenter]removeObserver:self name:@"AVSystemController_SystemVolumeDidChangeNotification" object:nil];
+    [self removeNotification];
 }
 @end
